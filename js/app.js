@@ -1,5 +1,5 @@
 // js/app.js
-import { TaskManager } from './taskManager.js';
+import { TaskManager } from './task.js';
 import { UI } from './ui.js';
 
 // تابع اصلی راه‌اندازی برنامه
